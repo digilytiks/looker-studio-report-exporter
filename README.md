@@ -5,7 +5,7 @@ A simple browser script to extract all your Looker Studio (formerly Google Data 
 
 - Scrolls the Looker Studio reports page automatically to load all reports.
 - Copies all report data to your clipboard in CSV format.
-- Safe and lightweight — no installation required.
+- Safe and lightweight. No installation required.
 
 **Usage**
 
@@ -19,6 +19,7 @@ A simple browser script to extract all your Looker Studio (formerly Google Data 
 6. Wait for the script to scroll through all reports and collect data.
 7. Once completed, the CSV is automatically copied to your clipboard.
 8. Open Google Sheets (or Excel) and paste the data (Ctrl+V / Cmd+V).
+9. Select 'Data' >> 'Split text to columns' to separate into individual columns
 
 **Notes**
 
